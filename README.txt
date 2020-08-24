@@ -1,0 +1,1 @@
+Developed a high accuracy machine learning model using KNN that predicts if the patient can be diagnosed with diabetes or not in the future. Predictions were made based on patient’s characteristic data set which contains attributes such as “glucose level”,“blood pressure”, “age” etc 
